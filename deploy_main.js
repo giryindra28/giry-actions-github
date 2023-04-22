@@ -1,0 +1,1 @@
+alert("Jika muncul alerts ini berarti sudah berhasil deploy file js");
